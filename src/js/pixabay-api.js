@@ -1,6 +1,6 @@
 export function getInform(str = "") {
     const BASE_URL = 'https://pixabay.com/api/';
-    const API_KEY = '43214840-c1c575028749116cdd7e0c5e8';
+    const API_KEY = '44796244-d6f861acc8986ccf49175a119';
 
     const parameters = new URLSearchParams({
         key: API_KEY,
